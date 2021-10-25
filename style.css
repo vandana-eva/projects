@@ -1,0 +1,35 @@
+body {
+text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: inherit;
+    font-weight: 300;
+}
+#apps {
+    color:maroon;
+    background-color: magenta;
+}
+#mycarousel {
+    background-color:red;
+}
+#mycarousel img {
+    height: 300px;
+    margin-top:35px;
+}
+.carousel-inner p {
+    margin-top: 15px; 
+    color:antiquewhite;
+    font-size:25px;
+}
+#chatbot {
+    margin-top:35px;
+    color:rgb(185, 173, 255);
+    background-color: rgb(255, 58, 156);
+}
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
